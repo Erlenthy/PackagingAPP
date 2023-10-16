@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\obj\Release\PackagingAPP.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\obj\Release\PackagingAPP.FileCompresser.resources
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\obj\Release\PackagingAPP.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\obj\Release\PackagingAPP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\bin\Release\Ziplock.exe.config
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\bin\Release\Ziplock.exe
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\bin\Release\Ziplock.pdb
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\obj\Release\Ziplock.Properties.Resources.resources
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\obj\Release\Ziplock.exe
+C:\Users\USER\source\repos\PackagingAPP\PackagingAPP\obj\Release\Ziplock.pdb
